@@ -1,0 +1,91 @@
+commit de30d4081896447102a3fbca553b1b4376a4b50d
+Author: ZomCie <rodriguezelijah0327@gmail.com>
+Date:   Thu Feb 12 20:59:06 2026 -0800
+
+    Update index.html
+
+commit 66534be6287fa06fdd2b3989d9107bba2c40d74c
+Merge: ab67866 ed86887
+Author: erfan <152842826+erfwn81@users.noreply.github.com>
+Date:   Thu Feb 12 20:55:42 2026 -0800
+
+    Merge pull request #2 from erfwn81/feature-about-me
+    
+    Change title and enhance layout with styles
+
+commit ed8688759b236a0d4e0e21fc74c84ea3874d3ba2
+Merge: 232934b ab67866
+Author: erfan <152842826+erfwn81@users.noreply.github.com>
+Date:   Thu Feb 12 20:54:32 2026 -0800
+
+    Merge branch 'main' into feature-about-me
+
+commit 232934b820ad84d054b81964975a95931285db07
+Author: erfan <152842826+erfwn81@users.noreply.github.com>
+Date:   Thu Feb 12 20:53:06 2026 -0800
+
+    Change title and enhance layout with styles
+    
+    Updated the title and added styling for the page layout. Included sections for personal information and a footer.
+
+commit ab67866af363c4b6464961e1644fb3b29efa94cd
+Author: erfan <152842826+erfwn81@users.noreply.github.com>
+Date:   Thu Feb 12 20:46:40 2026 -0800
+
+    Add new section with personal information
+
+commit 580f6ce7b8725829632dc7c9a35ad9dde9d058c4
+Merge: f37cdce 4cf72d6
+Author: erfan <152842826+erfwn81@users.noreply.github.com>
+Date:   Thu Feb 12 20:27:52 2026 -0800
+
+    Merge pull request #1 from erfwn81/feature-about-me
+    
+    Update index.html
+
+commit 4cf72d61f548f7f111e7a3722dc629af0d93dd60
+Author: erfan <mirzaee.erfan81@gmail.com>
+Date:   Thu Feb 12 20:21:40 2026 -0800
+
+    Update index.html
+    
+    Adding my info
+
+commit 36c86bac45225f2b53c6591729ec566171f0536d
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 22:24:59 2025 -0800
+
+    Setup index for groupmate
+
+commit f37cdce66bf3ee5c7835db43eb69434768c73a72
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 22:05:30 2025 -0800
+
+    Replicate assignment-1 index
+
+commit 2221a861bb75db029ce6f7e543f814dcb97ff69c
+Merge: 7790057 bad1d21
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Feb 5 22:03:43 2025 -0800
+
+    Merge pull request #1 from JValenzuela1/feature-about-me
+    
+    Feature about me
+
+commit bad1d210982c13dbedbb9b72b3fd92018d5d575d
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 21:42:13 2025 -0800
+
+     Please enter the commit message for your changes. Lines starting
+
+commit 740ccd1c7908abf4acc3e9edc878b083730fc3ea
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 21:36:03 2025 -0800
+
+    Adding an index template for students
+
+commit 779005737de5c4a1d440e0674921a65a60db04ac
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 21:15:47 2025 -0800
+
+    first commit
